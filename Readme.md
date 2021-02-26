@@ -21,3 +21,4 @@ The player uses the following keys:
 [Demo GamePlay](https://youtu.be/gR7sjpT8Glk)
 
 ## [Source](https://github.com/CristiSandu/BowAndArrow2D/tree/main/Source/Laboratoare/Tema1)
+## [Main Repo](https://github.com/CristiSandu/EGC)
